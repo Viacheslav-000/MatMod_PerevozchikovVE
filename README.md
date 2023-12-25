@@ -26,18 +26,18 @@
 
 # Реализация программы на Python в PyCharm (файл программы вложен в репозиторий под названием "LV_kurs"):
 
-#Импорт библиотек
-#import numpy as np
-#import matplotlib.pyplot as plt
-#import scipy as sci
-#from scipy import integrate
+##Импорт библиотек
+##import numpy as np
+##import matplotlib.pyplot as plt
+##import scipy as sci
+##from scipy import integrate
 
-#Определение функции ODE
-#def LVC(N, t, r1, r2, alpha, beta, K1, K2):
-#    dN_1 = r1*N[0] * (1 - (N[0] + alpha * N[1])/ K1)
-#    dN_2 = r2*N[1] * (1 - (N[1] + beta * N[0])/ K2)
-#    return(np.array([dN_1, dN_2]))
-#
+##Определение функции ODE
+##def LVC(N, t, r1, r2, alpha, beta, K1, K2):
+##    dN_1 = r1*N[0] * (1 - (N[0] + alpha * N[1])/ K1)
+##    dN_2 = r2*N[1] * (1 - (N[1] + beta * N[0])/ K2)
+##    return(np.array([dN_1, dN_2]))
+##
 #Значения параметров и начальные условия
 #r1 = 0.1
 #r2 = 0.1
